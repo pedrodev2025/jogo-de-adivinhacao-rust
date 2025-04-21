@@ -1,0 +1,7 @@
+[package]
+name = "adivinha_numero" # Você pode escolher outro nome para o seu projeto
+version = "0.0.1"
+edition = "2024"
+
+[dependencies]
+rand = "0.8" # Especifica a versão da biblioteca rand que você quer usar
